@@ -1,1 +1,5 @@
 ﻿/.vs/GitDemo/FileContentIndex
+bin/
+obj/
+*.txt
+.vs/
