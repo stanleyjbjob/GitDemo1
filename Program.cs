@@ -3,4 +3,4 @@ using GitDemo;
 
 Console.WriteLine("你好, 傑報!");
 Test1 test1=new Test1();
-test1.SayHi();
+test1.SayHi();//測試刪除分支
