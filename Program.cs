@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, 傑報!");
+Console.WriteLine("你好, 傑報!");
